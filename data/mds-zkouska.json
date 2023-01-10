@@ -353,8 +353,8 @@
              "right": false
           },
           {
-             "text": "Definuje výpočet zpoždění a kolísání zpoždění u multimediálních přenosů        (radši ne??)",
-             "right": true
+             "text": "Definuje výpočet zpoždění a kolísání zpoždění u multimediálních přenosů",
+             "right": false
           },
           {
              "text": "Je protokol aplikační vrstvy TCP/IP modelu",
